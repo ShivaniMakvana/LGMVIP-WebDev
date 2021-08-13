@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/ShivaniMakvana/LGMVIP-WebDev?style=social)
 
 
-![image](path)
+![image](https://github.com/ShivaniMakvana/LGMVIP-WebDev/blob/main/Task%202/public/React.jpg)
 <p align = "center"><b>Get User App - fetches data from API and displays it</b></p>
 
 
@@ -84,5 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 ---
-
 <h2 align="center">THANK YOU!</h2>
